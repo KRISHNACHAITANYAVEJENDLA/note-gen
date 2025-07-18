@@ -50,3 +50,13 @@ if uploaded_file is not None:
 # Footer
 st.caption("🚀 Built with Whisper | 100% offline | Audio-only (.mp3, .wav, .m4a)")
 
+st.markdown(
+    """
+    <div style='text-align: center; padding-top: 30px; font-size: 14px; color: gray;'>
+        Created by <strong>Vejendla Krishna Chaitanya</strong>, <strong>K V Pavan Kumar</strong>, and <strong>Bhuvanesh Nadella</strong>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+
