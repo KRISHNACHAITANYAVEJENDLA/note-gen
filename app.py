@@ -47,4 +47,5 @@ if uploaded_file is not None:
 
     os.remove(temp_path)
 
-st.caption("🚀 Built with Whisper | 100% offline | Audio-only (.mp3, .wav, .m4a)")
+# Footer
+st.caption("🚀 Built with Whisper | 100% offline | Audio-only (.mp
